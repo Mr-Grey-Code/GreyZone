@@ -1,5 +1,5 @@
-# Ourglass
-This program, once compiled and run, will work as a To-Do list, complete with priority and history.
+# Need of the our
+This program, once compiled and run, will work as a To-Do list, complete with priority and history as well.
 It's designed to work even when all kinds of junk are thrown at it. 
 
 I've been quite liberal with comments in the code.
